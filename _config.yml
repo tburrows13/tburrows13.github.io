@@ -12,7 +12,7 @@ tagline:          'A Jekyll theme'
 description:      Computer Science Student at Cambridge University
 url:              https://tpmb.uk
 
-baseurl:          /
+baseurl:          ""
 
 paginate:         5
 
