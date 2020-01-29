@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         cramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Tom Burrows
+tagline:          'A Jekyll theme'
+description:      Computer Science Student at Cambridge University
+url:              https://tpmb.uk
+baseurl:          /
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/tburrows13/tburrows13.github.io
+
+social_links:
+  github: tburrows13
+  instagram: tom.p.burrows
+  linkedin: tpmburrows
