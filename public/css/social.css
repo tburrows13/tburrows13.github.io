@@ -1,5 +1,5 @@
 .social {
-  text-align: center;
+  text-align: left;
   font-size: 2.5em;
   color: #555;
   overflow: hidden;
@@ -9,7 +9,7 @@
   text-decoration: none;
 }
 .social i {
-  margin: .01em;
+  margin: .05em;
   cursor: pointer;
   transition: color 300ms ease, margin-top 300ms ease;
   transform: translateZ(0);
@@ -28,4 +28,7 @@
 }
 .social i#mail:hover {
   color: #F7B401;
+}
+.social i#facebook:hover {
+  color: #4260b4;
 }
