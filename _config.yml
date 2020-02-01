@@ -8,7 +8,6 @@ relative_permalinks: false
 
 # Setup
 title:            Tom Burrows
-tagline:          'A Jekyll theme'
 description:      Computer Science Student at Cambridge University
 url:              https://tpmb.uk
 
