@@ -9,7 +9,7 @@
   text-decoration: none;
 }
 .social i {
-  margin: .2em;
+  margin: .01em;
   cursor: pointer;
   transition: color 300ms ease, margin-top 300ms ease;
   transform: translateZ(0);
