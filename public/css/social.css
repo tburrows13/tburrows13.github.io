@@ -1,5 +1,5 @@
 .social {
-  font-size: 2.5em;
+  font-size: 2em;
   color: #555;
   overflow: hidden;
 }
@@ -9,6 +9,7 @@
 }
 .social i {
   margin: .05em;
+  white-space: nowrap;
   cursor: pointer;
   transition: color 300ms ease, margin-top 300ms ease;
   transform: translateZ(0);
@@ -29,5 +30,5 @@
   color: #F7B401;
 }
 .social i#facebook:hover {
-  color: #4260b4;
+  color: #082b8a;
 }
