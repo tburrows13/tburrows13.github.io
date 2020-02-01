@@ -13,6 +13,7 @@ I've been playing both classical and jazz trumpet for many years. Some of the gr
 * Junior RNCM Brass Band (Principal Cornet)
 * Youth Orbit
 * Muskrat Ramble Jazz Quintet
+* National Youth Jazz Collective
 * Haffner Orchestra
 
 You can hear Youth Orbit's most recent project Planetarium [on streaming platforms](https://li.sten.to/youthorbit) or directly here:
