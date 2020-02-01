@@ -31,20 +31,11 @@
 .social i#twitter:hover {
   color: #77DDF6;
 }
-.social i#github:hover {
-  color: black;
-}
 .social i#linkedin:hover {
   color: #0177B5;
 }
-.social i#code:hover {
-  color: #29A329;
-}
 .social i#stack:hover {
   color: #ED780E;
-}
-.social i#plus:hover {
-  color: #D43402;
 }
 .social i#mail:hover {
   color: #F7B401;
