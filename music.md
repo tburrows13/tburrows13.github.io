@@ -20,10 +20,11 @@ You can hear Youth Orbit's most recent project Planetarium [on streaming platfor
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/815764902&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-For more traditional jazz, I've also been on the Muskrat Ramble album Auditorium:
+
+For more traditional jazz, as part of Muskrat Ramble, we recorded the album [Auditorium](https://open.spotify.com/album/0AF6RruRKiOLeixmvyAAz1?si=7DAYZhyGSpGFnExSLDcnSQ):
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/508846104&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ## Organ
 
-I am an Organ Scholar at Christ's College Cambridge.
+I am an Organ Scholar at Christ's College Cambridge. If you require me to play for a service, the best way to get in contact is by email.
