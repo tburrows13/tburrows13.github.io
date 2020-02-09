@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 ---
+<meta name="gc:url" content="https://cdn.jsdelivr.net/gh/lepture/github-cards@1.0.5/jsdelivr/cards/default.html">
+
 
 ## [Room Mapping Robot](https://github.com/tburrows13/Room-Mapping-Robot)
 
