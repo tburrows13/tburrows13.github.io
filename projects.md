@@ -2,13 +2,15 @@
 layout: page
 title: Projects
 ---
-<meta name="gc:url" content="https://cdn.jsdelivr.net/gh/lepture/github-cards@1.0.5/jsdelivr/cards/default.html">
 
 
 ## [Room Mapping Robot](https://github.com/tburrows13/Room-Mapping-Robot)
 
-<div class="github-card" data-github="tburrows13/Room-Mapping-Robot" data-width="400" data-height="177" data-theme="default" data-target="blank"></div>
+A Python application that simulates a robot driving around a room whilst creating a map of it. It is created using Python 3, PyQt5 and sqlite.
 
-## Moviepy
-<div class="github-card" data-github="Zulko/moviepy" data-width="400" data-height="177" data-theme="default" data-target="blank"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+![Window explanation](https://imgur.com/mkKLr31.png)
+
+
+## [Moviepy](https://github.com/Zulko/moviepy)
+
+I've significantly contributed to the open source project Moviepy, which allows programmatic editing of videos and images in Python.

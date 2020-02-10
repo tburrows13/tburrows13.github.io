@@ -5,7 +5,7 @@ title: Music
 
 ## Trumpet
 
-I've been playing both classical and jazz trumpet for many years. Some of the groups I've played with include:
+I've been playing both jazz and classical trumpet for many years. Some of the groups I've played with include:
 
 * Selwyn College Big Band
 * Christ's Jazz
