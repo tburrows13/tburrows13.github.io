@@ -13,4 +13,4 @@ A Python application that simulates a robot driving around a room whilst creatin
 
 ## [Moviepy](https://github.com/Zulko/moviepy)
 
-I've significantly contributed to the open source project Moviepy, which allows programmatic editing of videos and images in Python.
+I've contributed significantly to the open source project Moviepy, which allows programmatic editing of videos and images in Python.
