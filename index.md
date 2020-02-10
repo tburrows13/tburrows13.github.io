@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+order: 0
 ---
 
 Hey! I'm currently in my first year studying Computer Science at the University of Cambridge.

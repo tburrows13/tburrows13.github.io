@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Music
+order: 10
 ---
 
 ## Trumpet
