@@ -5,7 +5,7 @@ title: Music
 
 ## Trumpet
 
-I've been playing both jazz and classical trumpet for many years. Some of the groups I've played with include:
+I've been playing both jazz and classical trumpet for many years.  Some of the groups I've played with include:
 
 * Selwyn College Big Band
 * Christ's Jazz
@@ -27,4 +27,4 @@ For more traditional jazz, as part of Muskrat Ramble, we recorded the album [Aud
 
 ## Organ
 
-I am an Organ Scholar at Christ's College Cambridge. If you require me to play for a service, the best way to get in contact is by email.
+I am an Organ Scholar at Christ's College Cambridge.  If you require me to play for a service, the best way to get in contact is by email.
