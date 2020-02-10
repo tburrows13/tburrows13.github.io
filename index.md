@@ -6,7 +6,6 @@ title: Home
 Hey! I'm currently in my first year studying Computer Science at the University of Cambridge.
 
 I have experience with:
-
 * Python software development
 * Cyber Security (Pentesting)
 * Android app development
