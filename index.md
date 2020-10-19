@@ -4,7 +4,7 @@ title: Home
 order: 0
 ---
 
-Hey! I'm currently in my first year studying Computer Science at the University of Cambridge.
+Hey! I'm currently in my second year studying Computer Science at the University of Cambridge.
 
 I have experience with:
 * Software development with Python, Java, C++ and Lua
