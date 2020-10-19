@@ -9,7 +9,7 @@ Hey! I'm currently in my second year studying Computer Science at the University
 I have experience with:
 * Software development with Python, Java, C++ and Lua
 * Industry tools such as git, GitHub, GitLab and Unix CLIs
-* Cyber Security (particularly pentesting techniques and network forensics)
+* Cyber Security, particularly pentesting techniques and network forensics
 * Android app development
 
 <br>
