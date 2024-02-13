@@ -4,6 +4,10 @@ title: Projects
 order: 1
 ---
 
+## [Factorio Mods](https://mods.factorio.com/user/Xorimuth)
+
+I have made and contributed to many mods for the video game [Factorio](https://factorio.com), including helper tools and new gameplay features.
+![Factory Search mod](https://assets-mod.factorio.com/assets/4ba579a7df759afa234ac36c1362b4d04f30167e.png)
 
 ## [MoviePy](https://github.com/Zulko/moviepy)
 
