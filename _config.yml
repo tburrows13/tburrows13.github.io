@@ -7,7 +7,7 @@ relative_permalinks: false
 
 # Setup
 title:            Tom Burrows
-description:      Computer Science Student at Cambridge University
+description:      Software Engineer in Cambridge
 url:              https://tpmb.uk
 
 paginate:         5
