@@ -13,7 +13,7 @@ I have made and contributed to many mods for the video game [Factorio](https://f
 
 I help to maintain the open source project MoviePy, which allows programmatic editing of videos and images in Python. Currently managing a v2.0 release featuring a major API overhaul, stability improvements and a documentation rewrite.
 
-![MoviePy logo](https://raw.githubusercontent.com/Zulko/moviepy/master/docs/logo.png)
+![MoviePy logo](https://raw.githubusercontent.com/Zulko/moviepy/master/docs/_static/medias/logo.png)
 
 
 ## [Room Mapping Robot](https://github.com/tburrows13/Room-Mapping-Robot)
